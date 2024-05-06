@@ -43,8 +43,6 @@ STEP 5:Include Necessary parameters in each functions.
 ![image](https://github.com/Gedipudidarshani/EXNO-5-DS/assets/139340574/800fb660-1280-4274-addf-089f89dadd12)
 ![image](https://github.com/Gedipudidarshani/EXNO-5-DS/assets/139340574/053eaf73-e757-4c21-9bd6-da81252598f1)
 ![image](https://github.com/Gedipudidarshani/EXNO-5-DS/assets/139340574/5e2350ce-9ace-4769-9024-17a539238f95)
-![image](https://github.com/Gedipudidarshani/EXNO-5-DS/assets/139340574/88ceaf34-9c3d-4f9d-adb4-d570c8f03c8a)
-![image](https://github.com/Gedipudidarshani/EXNO-5-DS/assets/139340574/f5ab7836-9df6-4aba-b367-d1b90a1f958f)
 
 
 
